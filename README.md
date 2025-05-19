@@ -4,7 +4,7 @@ things to add:
 
 change cursor
 
-ammo counter
+
 health counter
 Enemy waves
 
