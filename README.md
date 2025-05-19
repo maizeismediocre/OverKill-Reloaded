@@ -5,7 +5,7 @@ things to add:
 change cursor
 
 
-health counter
+
 Enemy waves
 
 Boss waves
