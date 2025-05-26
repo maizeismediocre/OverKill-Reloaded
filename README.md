@@ -3,6 +3,8 @@ This is the repo for the final year project: Overkill Reloaded
 things to add:
 
 make it so when you kill the boss the wave goes and change it so that all the increasing variables are done through adding (the increased number) * the wave number 
+change it so that enemies stop spawning when the "enemies_spawned" equals to the "max_enemy_spawned" variable to stop overcrowding 
+make it so when an ememy is spawned it increments enemies_spawned and when the boss is dead make the variable equal to zero
 add wave counter 
 gameover screen when the player hits below 100 health
 
