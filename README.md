@@ -2,7 +2,8 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-
+make it so when you kill the boss the wave goes and change it so that all the increasing variables are done through adding (the increased number) * the wave number 
+add wave counter 
 gameover screen when the player hits below 100 health
 
 
