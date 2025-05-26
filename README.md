@@ -3,12 +3,12 @@ This is the repo for the final year project: Overkill Reloaded
 things to add:
 
 
+gameover screen when the player hits below 100 health
 
 
 
-Enemy waves
 
-Boss waves
+
 ricochet for bullets
 punch through for bullets
 dodging 
