@@ -16,6 +16,7 @@ dodging
 
 shop
 add power ups (inf ammo, nuke)
+implement glass cannon mode and extreme
 
 assets used: 
 https://www.fab.com/listings/75608ef1-b22a-4349-b71c-9ae4a98571ae - coin 
