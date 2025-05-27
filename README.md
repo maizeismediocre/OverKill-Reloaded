@@ -5,6 +5,8 @@ things to add:
 change cursors to be 32x32 instead of 50x50
 
 
+make it so bullets are deleted if they collide with walls or after a 5 second delay 
+
 make it so when you kill the boss the wave goes and change it so that all the increasing variables are done through adding (the increased number) * the wave number 
 change it so that enemies stop spawning when the "enemies_spawned" equals to the "max_enemy_spawned" variable to stop overcrowding 
 make it so when an enemy is spawned it increments enemies_spawned and when the boss is dead make the variable equal to zero
