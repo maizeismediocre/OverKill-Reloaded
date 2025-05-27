@@ -2,9 +2,6 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-change cursors to be 32x32 instead of 50x50
-
-stop coin from blocking enemies 
 
 make it so bullets are deleted if they collide with walls or after a 5 second delay 
 
