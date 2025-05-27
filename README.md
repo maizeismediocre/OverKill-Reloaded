@@ -2,6 +2,7 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
+change wave progress and boss health text in the hud to say the enemies killed out of the max spawned enemies and the bosses health respectively 
 
 make it so bullets are deleted if they collide with walls or after a 5 second delay 
 
