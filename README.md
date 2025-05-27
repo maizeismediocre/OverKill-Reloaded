@@ -4,6 +4,7 @@ things to add:
 
 change cursors to be 32x32 instead of 50x50
 
+stop coin from blocking enemies 
 
 make it so bullets are deleted if they collide with walls or after a 5 second delay 
 
@@ -22,7 +23,7 @@ punch through for bullets
 dodging 
 
 shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances)
-add power ups (inf ammo, nuke)
+add power ups (inf ammo, nuke, coin vacuum)
 implement glass cannon mode and extreme mode
 
 assets used: 
