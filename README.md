@@ -5,7 +5,7 @@ things to add:
 
 
 
-add wave counter
+
 
 make it so bullets are deleted if they collide with walls or after a 5 second delay 
 
