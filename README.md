@@ -2,17 +2,21 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-make it so coins give the player 1-10 gold
 
-change wave progress and boss health text in the hud to say the enemies killed out of the max spawned enemies and the bosses health respectively 
+
+
+add wave counter
 
 make it so bullets are deleted if they collide with walls or after a 5 second delay 
 
 make it so when you kill the boss the wave goes and change it so that all the increasing variables are done through adding (the increased number) * the wave number 
+
 change it so that enemies stop spawning when the "enemies_spawned" equals to the "max_enemy_spawned" variable to stop overcrowding 
+
 make it so when an enemy is spawned it increments enemies_spawned and when the boss is dead make the variable equal to zero
-add wave counter 
-gameover screen when the player hits below 100 health
+
+
+
 
 
 
