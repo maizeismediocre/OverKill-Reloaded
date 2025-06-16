@@ -16,6 +16,10 @@ change it so that enemies stop spawning when the "enemies_spawned" equals to the
 make it so when an enemy is spawned it increments enemies_spawned and when the boss is dead make the variable equal to zero
 
 
+add main menu
+
+add pause menu
+
 
 
 
