@@ -30,6 +30,8 @@ shop (change it so that after you beat the boss instead of just increasing the c
 add power ups (inf ammo, nuke, coin vacuum)
 implement glass cannon mode and extreme mode
 
+change assets to further reflect games theme
+
 assets used: 
 https://www.fab.com/listings/75608ef1-b22a-4349-b71c-9ae4a98571ae - coin 
 https://kaboff.itch.io/mouse-cursors-pack - cursor 
