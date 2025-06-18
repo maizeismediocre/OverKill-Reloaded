@@ -2,7 +2,7 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-make it so enemy health and boss health is set within their own blueprints instead of being set in the enemy spawner to make it more modular 
+
 
 
 
