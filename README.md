@@ -34,7 +34,10 @@ add power ups (inf ammo, nuke, coin vacuum)
 
 implement glass cannon mode and extreme mode
 
+add different enemy types, like ones that are faster and shoot at the player 
+
 change assets to further reflect games theme
+
 
 assets used: 
 https://www.fab.com/listings/75608ef1-b22a-4349-b71c-9ae4a98571ae - coin 
