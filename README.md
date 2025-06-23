@@ -1,6 +1,7 @@
 This is the repo for the final year project: Overkill Reloaded
 
 things to add:
+add invisible wall below level to fix aiming
 teleport the player to their initial spawn point when the boss is spawned 
 add a countdown of 3 seconds before being teleported 
 add countdown timer of 5 seconds before the boss spawns 
