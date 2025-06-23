@@ -1,7 +1,7 @@
 This is the repo for the final year project: Overkill Reloaded
 
 things to add:
-
+make level bigger outside of the wall to stop aiming bug from happening 
 add countdown timer of 5 seconds before the boss spawns 
 
 
