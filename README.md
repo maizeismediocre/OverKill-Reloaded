@@ -4,6 +4,7 @@ things to add:
 
 add countdown timer of 5 seconds before the boss spawns 
 
+add arrow pointing towards the boss above the players head 
 
 
 
