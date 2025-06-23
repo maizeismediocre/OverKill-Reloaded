@@ -2,8 +2,9 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 teleport the player to their initial spawn point when the boss is spawned 
+add a countdown of 3 seconds before being teleported 
 add countdown timer of 5 seconds before the boss spawns 
-
+add 3 second next wave timer 
 add a slight spread to the guns projectiles
 
 
