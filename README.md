@@ -36,7 +36,7 @@ implement glass cannon mode and extreme mode
 
 add different enemy types, like ones that are faster and shoot at the player 
 
-change assets to further reflect games theme
+change assets to further reflect games theme (sound effects, models and font used in the ui)
 
 
 assets used: 
