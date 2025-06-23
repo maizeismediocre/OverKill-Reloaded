@@ -1,10 +1,10 @@
 This is the repo for the final year project: Overkill Reloaded
 
 things to add:
-
+teleport the player to their initial spawn point when the boss is spawned 
 add countdown timer of 5 seconds before the boss spawns 
 
-add arrow pointing towards the boss above the players head 
+
 
 
 
