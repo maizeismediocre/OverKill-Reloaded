@@ -4,6 +4,7 @@ things to add:
 teleport the player to their initial spawn point when the boss is spawned 
 add countdown timer of 5 seconds before the boss spawns 
 
+add a slight spread to the guns projectiles
 
 
 
