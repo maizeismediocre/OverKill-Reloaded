@@ -23,11 +23,15 @@ add pause menu
 
 
 ricochet for bullets
+
 punch through for bullets
+
 dodging 
 
 shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances)
+
 add power ups (inf ammo, nuke, coin vacuum)
+
 implement glass cannon mode and extreme mode
 
 change assets to further reflect games theme
