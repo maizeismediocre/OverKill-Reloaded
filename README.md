@@ -32,7 +32,7 @@ punch through for bullets
 
 dodging 
 
-shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances)
+shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances) ((use a random number to determine what kind of upgrade each slot has in the shop ui blueprint
 
 add stats screen to see upgrades
 add power ups (inf ammo, nuke, coin vacuum)
