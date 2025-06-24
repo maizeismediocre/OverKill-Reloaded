@@ -1,12 +1,8 @@
 This is the repo for the final year project: Overkill Reloaded
 
 things to add:
-add invisible wall below level to fix aiming
-teleport the player to their initial spawn point when the boss is spawned 
-add a countdown of 3 seconds before being teleported 
-add countdown timer of 5 seconds before the boss spawns 
-add 3 second next wave timer 
-add a slight spread to the guns projectiles
+
+
 
 
 
@@ -20,7 +16,7 @@ add main menu
 
 add pause menu
 
-
+add controls sub menu 
 
 
 
@@ -32,7 +28,7 @@ punch through for bullets
 
 dodging 
 
-shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances) ((use a random number to determine what kind of upgrade each slot has in the shop ui blueprint
+shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances) ((use a random number to determine what kind of upgrade each slot has in the shop ui blueprint)
 
 add stats screen to see upgrades
 add power ups (inf ammo, nuke, coin vacuum)
