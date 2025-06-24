@@ -34,6 +34,7 @@ dodging
 
 shop (change it so that after you beat the boss instead of just increasing the current wave you go to the shop and when you exit it the current wave advances)
 
+add stats screen to see upgrades
 add power ups (inf ammo, nuke, coin vacuum)
 
 implement glass cannon mode and extreme mode
