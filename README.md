@@ -2,11 +2,8 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-add main menu
 
-add pause menu
 
-add controls sub menu 
 
 
 use eqs for spawning enemies and enemy behaviour
