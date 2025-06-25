@@ -9,6 +9,8 @@ add pause menu
 add controls sub menu 
 
 
+use eqs for spawning enemies and enemy behaviour
+
 
 ricochet for bullets
 
