@@ -2,7 +2,7 @@ This is the repo for the final year project: Overkill Reloaded
 
 things to add:
 
-
+change hud elements that access the enemy spawner actor to do a valid check first 
 
 
 
